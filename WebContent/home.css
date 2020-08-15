@@ -1,0 +1,18 @@
+body{
+
+	background: url('images/5.jpg') no-repeat;
+	background-size:cover;
+	font-family: Courier;
+	color:Purple;
+	align-content: center;
+
+}
+
+p{
+	background-color:white;
+	opacity: 0.7;
+	padding: 40px;
+	font-weight: 20px;
+	text-align: justify;
+
+}
